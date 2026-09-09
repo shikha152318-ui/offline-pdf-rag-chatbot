@@ -14,15 +14,9 @@ git clone https://github.com/<your-username>/offline-pdf-rag-chatbot.git
 cd offline-pdf-rag-chatbot
 pip install -r requirements.txt
 
----
+# Usage
 
-## 📦 Usage
-
-⚡ **Run the chatbot locally:**
+⚡ Run the chatbot locally:
 
 ```bash
 python pdf_chatbot.py
-
--Replace "AInotes.pdf" in the code with your own PDF file.
--Type your questions in the terminal.
--Type exit to quit the chatbot.
