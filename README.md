@@ -1,6 +1,6 @@
 # Offline PDF RAG Chatbot
 
-An offline chatbot that answers questions from PDF documents using **Langchain**, **FAISS** and **HuggingFace** Transformers**.
+An offline chatbot that answers questions from PDF documents using **Langchain**, **FAISS** and **HuggingFace** Transformers.
 
 # Features
 - Works fully offline (no API keys required).
