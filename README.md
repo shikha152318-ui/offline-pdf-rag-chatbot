@@ -16,7 +16,7 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ **Usage**
+## 📦 Usage
 
 ⚡ **Run the chatbot locally:**
 
