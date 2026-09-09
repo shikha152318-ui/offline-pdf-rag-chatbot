@@ -30,7 +30,7 @@ while True:
     results = db.similarity_search(query, k=1)
     context = " ".join([d.page_content for d in results])
 
-    # Generate detailed answer
+
 
     prompt = f"Question: {query}\nContext: {context}\nGive a short answer:"
     answer = qa_model(prompt, max_new_tokens=256, do_sample=False)
