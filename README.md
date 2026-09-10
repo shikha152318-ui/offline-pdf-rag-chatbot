@@ -12,16 +12,16 @@ An offline chatbot that answers questions from PDF documents using **LangChain**
 
 ---
 
-## Installation and Usage
+## Installation 
 ```bash
 git clone https://github.com/<your-username>/offline-pdf-rag-chatbot.git
 cd offline-pdf-rag-chatbot
 pip install -r requirements.txt
-
+```
 ----
 
-
-⚡ Run the chatbot locally:
+## Usage
+Run the chatbot locally:
 python pdf_chatbot.py
 
 -Replace "AInotes.pdf" in the code with your own PDF file.
